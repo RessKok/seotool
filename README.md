@@ -9,7 +9,7 @@ Bu proje, çeşitli SEO analiz araçlarını bir araya getiren Node.js tabanlı 
 ### Reponun Klonlanması
 
 ```bash
-git clone https://github.com/RessKok/seotool.git
+git clone https://github.com/yarderun/seotool.git
 cd seotool
 ```
 
