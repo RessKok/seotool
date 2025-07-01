@@ -52,8 +52,11 @@ http://localhost:3000
 - ✅ Meta Başlık uzunluk ve piksel genişlik kontrolü
 - ✅ Meta Açıklama uzunluk ve piksel genişlik kontrolü
 - ✅ Google SERP Analizi (Başlık, Açıklama, URL, Canonical, H1-H2 Etiketleri)
-- ✅ H1/H2 etiketleri için açılır/kapanır liste desteği
-- ✅ Mobil ve masaüstü uyumlu kullanıcı arayüzü
-- ✅ Dropdown menü ile SEO araçları arasında animasyonlu geçiş
+- ✅ Mobil ve masaüstü uyumlu kullanıcı arayüzü (OPSİYONEL)
+- ✅ Dropdown menü ile SEO araçları arasında animasyonlu geçiş (buda opsiyonel)
 
 ---
+
+## 📜 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. (opsiyonel)
