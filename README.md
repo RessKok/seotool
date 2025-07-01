@@ -60,3 +60,8 @@ http://localhost:3000
 ## 📜 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. (opsiyonel)
+
+
+## API
+
+- **Size bedava serp apisi verdim çünkü onun için kod yazmaya üşendim yakında yazarım**
