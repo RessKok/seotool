@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Page Title Uzunluk Kontrolü</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <nav>
+        <div class="dropdown">
+            <span><a href="/" class="dropbtn">Ana Sayfa</a></span>
+            <span><a href="/pagetitle" class="dropbtn">PageTitle Uzunluğu</a></span>
+            <span><a href="/description" class="dropbtn">Meta Description Uzunluğu</a></span>
+            <span><a href="/serp" class="dropbtn">Serp Analizi</a></span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>Page Title Uzunluğu Kontrolü</h1>
+        <input type="text" id="metin" placeholder="Başlık metnini yaz...">
+        <button id="kontrolBtn">Kontrol Et</button>
+        <input type="file" id="fileInput" accept=".txt">
+        <button id="kontrolTxtBtn">.TXT Dosyasıyla Kontrol Et</button>
+        <div id="sonuc" style="margin-top: 20px;"></div>
+    </div>
+
+    <script src="../js/title.js"></script>
+</body>
+
+</html>
